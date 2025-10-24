@@ -6,16 +6,15 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Welcome <code>src/App.js</code> and save to.
-        </p>
+        <h1>Welcome to Techbuddy</h1>
+        <h3>It's my first react project</h3>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://techbuddy.in"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Portfolio
         </a>
       </header>
     </div>
